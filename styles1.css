@@ -146,7 +146,7 @@ body {
   }
 
   .timer {
-    top: 280px;          
+    top: 220px;          
     font-size: 0.85rem;
     flex-direction:column;
     gap:6px;
@@ -156,4 +156,5 @@ body {
     top: 0px;          
     font-size: 1.8rem;
   }
+
 }
